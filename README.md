@@ -1,16 +1,50 @@
-## Hi there 👋
+# Bruno Fonseca | Backend Developer & Student
 
-<!--
-**Bruno-DevBack/Bruno-DevBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d6efd?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Técnico de Análise e Desenvolvimento de Sistemas** & **Desenvolvedor Backend** com paixão por automação e soluções criativas. Tenho foco em Node.js, APIs robustas, sistemas escaláveis e integração de tecnologias modernas.
+
+### 🚀 Principais Stacks
+
+- **Backend:** Node.js, Express, NestJS, Sequelize, Laravel
+- **Banco de Dados:** MySQL, MongoDB
+- **Frontend:** Next.js, React, Bootstrap
+- **Outros:** TypeScript, JavaScript, PHP
+
+---
+
+### 🏆 Projetos de Destaque
+
+- **Sistema de Gestão de Eventos:**  
+  Backend Node.js + Express + Sequelize + MySQL, com painel web dinâmico.
+
+- **Dashboard de Investimentos:**  
+  Full stack Next.js + MongoDB, APIs em `/pages/api`, login JWT e gráficos de rendimento.
+
+- **PDF Generator com NestJS:**  
+  Serviço para geração de relatórios PDF elegantes usando PDFKit.
+
+---
+
+### 🎨 Sobre Mim
+
+Apaixonado por Programação e por criar soluções eficientes. Criatividade marcante e presença visual única.  
+
+---
+
+### 📬 Contato
+
+- WhatsApp: [11 93411-5742](https://wa.me/5511934115742)
+
+---
+
+#### 💡 Curiosidade
+
+Sempre em busca de aprender e evoluir. Unindo o universo tech à arte para entregar projetos originais e inovadores.
