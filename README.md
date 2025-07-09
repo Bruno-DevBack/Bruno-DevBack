@@ -41,7 +41,7 @@ Apaixonado por Programação e por criar soluções eficientes. Criatividade mar
 
 ### 📬 Contato
 
-- WhatsApp: [11 93411-5742](https://wa.me/5511934115742)
+- LinkedIn: [bruno-fonseca-651106280](https://www.linkedin.com/in/bruno-fonseca-651106280/)
 
 ---
 
